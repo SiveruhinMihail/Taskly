@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/SiveruhinMihail/Taskly-frontend.git
+[submodule "files"]
+	path = files
+	url = https://github.com/SiveruhinMihail/Taskly-Files.git
